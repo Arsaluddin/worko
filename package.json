@@ -13,6 +13,7 @@
     "express": "^4.19.2",
     "joi": "^17.13.3",
     "mongoose": "^8.4.3",
+    "nodemon": "^3.1.4",
     "webpack": "^5.92.1"
   },
   "devDependencies": {
